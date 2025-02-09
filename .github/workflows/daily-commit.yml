@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 permissions:
-  contents: write  # Ensure GitHub Actions can push change
+  contents: write  # Ensure GitHub Actions can push changes
 
 jobs:
   commit:
